@@ -1,0 +1,6 @@
+Roll:1703066
+------------------------------------
+
+Question:
+------------------------------------------
+Q1. Show an OpenGL Program which will show a triangle with white color with background color blue.
